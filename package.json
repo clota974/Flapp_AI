@@ -12,6 +12,6 @@
     "@tensorflow/tfjs": "^1.1.2",
     "@tensorflow/tfjs-node": "^1.1.2",
     "@tensorflow/tfjs-vis": "^1.1.0",
-    "electron": "^5.0.2"
+    "electron": "^13.6.6"
   }
 }
